@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|c:\\users\\david\\documents\\local\\dw-api-web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|c:\\users\\david\\documents\\local\\dw-api-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|c:\\users\\david\\documents\\local\\dw-api-web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|c:\\users\\david\\documents\\local\\dw-api-web\\controllers\\connectiontestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|solutionrelative:controllers\\connectiontestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|c:\\users\\david\\documents\\local\\dw-api-web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{011E9E39-528D-466C-B74C-8BAB986D0896}|dw-api-web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:20:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:53:25.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T15:53:25.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConnectionTestController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Controllers\\ConnectionTestController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConnectionTestController.cs",
@@ -80,25 +96,24 @@
               "RelativeToolTip": "Controllers\\ConnectionTestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:31:47.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T14:31:47.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowE4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwF0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T14:30:40.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DataWarehouseController.cs",
               "DocumentMoniker": "C:\\Users\\David\\Documents\\Local\\dw-api-web\\Controllers\\DataWarehouseController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataWarehouseController.cs",
@@ -106,8 +121,7 @@
               "RelativeToolTip": "Controllers\\DataWarehouseController.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAcwEMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:30:39.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T14:30:39.603Z"
             }
           ]
         }

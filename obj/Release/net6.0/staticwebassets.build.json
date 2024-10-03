@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3his6DeEw8be+/1CfecXPdiFwD+ikZ0AZmIGtN1r254=",
+  "Source": "dw-api-web",
+  "BasePath": "_content/dw-api-web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
