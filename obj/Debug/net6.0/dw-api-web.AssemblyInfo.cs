@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dw-api-web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f880b6cba6ecdc3f7321e8a452fde0ea851f585")]
 [assembly: System.Reflection.AssemblyProductAttribute("dw-api-web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dw-api-web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
